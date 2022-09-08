@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box1{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://styledme.com/wp-content/uploads/2020/08/new-york-city-zoom-background-download-free-images-700x394.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hedTxt{
+    width: 30rem;
+    height: 3rem; 
+    padding: 2rem;
+    background-color: black;
+    color: white;
+    letter-spacing: 7px;
+    text-align: center;
+}
+.tex1{
+    background-color: white;
+    text-align: center;
+    line-height: 1.5;
+    width: 90%;
+    margin: auto;
+    padding: 3rem;
+    font-size: large;
+    color: rgb(92, 88, 88);
+}
+.box2{
+    background-image: url(https://ahwendowment.org/AHW1/Blog/Header1900x600.25blue.png);
+    width: 100%;
+    height: 400px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 7px;
+    font-weight: 200;
+}
+.text2{
+    background-color: rgb(34, 33, 33);
+    text-align: center;
+    line-height: 1.5;
+    width: 90%;
+    margin: auto;
+    padding: 3rem;
+    font-size: large;
+    color: rgb(250, 248, 248);
+}
+.box3{
+    background-image: url(https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/China-Hong-Kong-city-adobe.jpg);
+    width: 100%;
+    height: 400px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 7px;
+    font-weight: 200;
+}
